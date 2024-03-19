@@ -1,4 +1,6 @@
+pandas
+plotly
 streamlit
-joblib
-numpy
-scikit-learn
+yfinance
+pandas-datareader
+prophet
